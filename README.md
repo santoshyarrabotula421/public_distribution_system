@@ -165,10 +165,6 @@ npm run preview
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
-
-**Chanu716**
-- GitHub: [@Chanu716](https://github.com/Chanu716)
 
 ## 🤝 Contributing
 
