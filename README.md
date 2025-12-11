@@ -1,4 +1,4 @@
-Video Demonstration Link : https://drive.google.com/file/d/1c6ga02HG8KTL9wWy7Quzdun3pFI0soBn/view?usp=sharing
+Project Demonstration Link : https://drive.google.com/file/d/1c6ga02HG8KTL9wWy7Quzdun3pFI0soBn/view?usp=sharing
 
 Code explanation Link : 
 
